@@ -1,10 +1,10 @@
 ---
 slug: "definitions"
-date: "2019-05-04"
-title: "Definitions"
+date: "2021-07-29"
+title: "Model Legislation"
 ---
 
-## Definitions
+## Definitions 01
 
 1. HOME COOKING OPERATION means an enterprise in a private home that is operated by a resident of the private home that stores, handles, prepares, packages, serves, and sells or otherwise provides food to consumers. A HOME COOKING OPERATION does not include a food processing plant, food service establishment, temporary food service establishment, caterer, cottage food operation[^1], educational institution, residential group home facility, assisted living facility, or health care facility. Nothing in this chapter shall prevent the operator of a HOME COOKING OPERATION from separately operating, or applying for a license or permit to operate, another type of food business in accordance with law.[^2]
 2. ONLINE FOOD MARKETPLACE means an entity that provides a platform on its internet website or mobile application through which a HOME COOKING OPERATION may choose to offer food for sale and from which the ONLINE FOOD MARKETPLACE derives revenues, including, but not limited to, revenues from advertising and fees for services offered to a HOME COOKING OPERATION. Services offered by an ONLINE FOOD MARKETPLACE to a HOME COOKING OPERATION may include, but are not limited to, allowing a HOME COOKING OPERATION to advertise its food for sale and providing a means for potential CONSUMERS to arrange payment for the food, whether the CONSUMER pays directly to the HOME COOKING OPERATION or to the ONLINE FOOD MARKETPLACE. Merely publishing an advertisement for the HOME COOKING OPERATION or food cooked therein does not make the publisher an ONLINE FOOD MARKETPLACE.

@@ -6085,10 +6085,9 @@ gatsby-recipes@^0.21.0:
     xstate "^4.9.1"
     yoga-layout-prebuilt "^1.9.6"
 
-gatsby-remark-tufte@^1.0.6:
+gatsby-remark-tufte@Zygar/gatsby-remark-tufte:
   version "1.0.6"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-tufte/-/gatsby-remark-tufte-1.0.6.tgz#336c0d65793997a433a039f0b6b9a28dc9649af4"
-  integrity sha512-ZlsBj0SiwmjwuRiwllXfH5HIk3cfQ9Km78YaDyOzEmbnC+6eHZOfj8SSu2sTvIRR1/Ou/JahSF2oOzPCQZpcaA==
+  resolved "https://codeload.github.com/Zygar/gatsby-remark-tufte/tar.gz/656200388ea220fe2c8a3f942510d6de01db0f23"
   dependencies:
     hast-util-to-html "^3.1.0"
     html-parse-stringify "^1.0.3"
