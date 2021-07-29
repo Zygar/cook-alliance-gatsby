@@ -24,7 +24,6 @@ export const pageQuery = graphql`
   query($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
-      excerpt
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         slug
